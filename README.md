@@ -13,3 +13,6 @@ My name is Dhruti Vadlamudi and I'm a Computer Science student at the University
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
 </p>
+
+
+[![Dhruti's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhrutiv1129)](https://github.com/dhrutiv1129/github-readme-stats)
