@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=speech&color=gradient&height=200&section=header&text=Dhruti%20Vadlamudi&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Dhruti%20Vadlamudi&fontSize=60)
 
 ## Hi there 👋
 
