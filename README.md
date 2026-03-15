@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Dhruti%20Patel&fontSize=60)
+
 ## Hi there 👋
 
 My name is Dhruti Vadlamudi and I'm a Computer Science student at the University of Washington. I am currently working on.....
