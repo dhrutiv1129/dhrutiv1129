@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-My name is Dhruti Vadlamudi and I'm a Computer Science student at the University of Washington. I am currently working on.....
+My name is Dhruti Vadlamudi and I'm a Computer Science student at the University of Washington. I am currently working on an iMessage Bot and a PCA/SVD Visualizer. Check out my ![Medium](https://medium.com/@dhrutiv_26687) or my personal website to learn more!
 
 ![Snake animation](https://github.com/dhrutiv1129/dhrutiv1129/blob/output/github-contribution-grid-snake.svg)
 
