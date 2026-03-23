@@ -15,4 +15,3 @@ My name is Dhruti Vadlamudi and I'm a Computer Science student at the University
 </p>
 
 
-[![Dhruti's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhrutiv1129)](https://github.com/dhrutiv1129/github-readme-stats)
